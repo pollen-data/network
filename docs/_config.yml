@@ -8,4 +8,7 @@ remote_theme: pmarsceill/just-the-docs
 baseurl: /network/docs/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://repown.github.io/network/
+
+plugins:
+  - jekyll-default-layout
